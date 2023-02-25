@@ -1,5 +1,5 @@
 # pythoncourse_final_proj]
-## Aim is to kill all CO2 (only "python")
+## Aim is to kill all CO2 (only ``` Python ```)
 #### Fron page (story)
 ![image](https://user-images.githubusercontent.com/112695184/221366386-10ac5d71-09cf-435e-8397-023d6ece75d9.png)
 
@@ -7,9 +7,11 @@
 #### I used two backgrounds for this. As you destroy more CO2 Earth becomes greener (part by part). You can see how much habitable earth becomes (%) on the top right corner of the screen.
 ![image](https://user-images.githubusercontent.com/112695184/221366432-d17c4690-6bd8-4176-a0f7-a3e3b8fe6b77.png)
 #### Killing green energy sources by accident will result in a pop message where the importance of that specific source is explained.
+#### Each energy source has its unique message (examples below). Messages appeare from bottom and go up.
 
 ![image](https://user-images.githubusercontent.com/112695184/221366462-ee4ac7ba-73c8-4cd4-a4f8-91ba3148624c.png)
 
+![image](https://user-images.githubusercontent.com/112695184/221367228-ceddd8c4-c1f4-4806-887a-6a884744153d.png)
 
 ![image](https://user-images.githubusercontent.com/112695184/221366488-ab7b45fc-7458-42f0-983b-24f6958b4357.png)
 
