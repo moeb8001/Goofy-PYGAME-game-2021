@@ -24,6 +24,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/112695184/221366634-6a1d5284-e084-4706-9d4c-20b76609eacc.png)
-#### After you have killed all the CO2 you can finally cross the debris line/ring by using the wormhole which appears. By going inside the wormhole you will end up on the other side of the debsris ring.
+#### After you have killed all the CO2 you can finally cross the debris line/ring by using the wormhole which appears. By going inside the wormhole you will end up on the other side of the debsris ring!
 
 ![image](https://user-images.githubusercontent.com/112695184/221366650-4e7b9bd5-efcd-48c7-90e1-cd40406daaf7.png)
