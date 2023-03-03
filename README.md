@@ -4,8 +4,12 @@
 ![image](https://user-images.githubusercontent.com/112695184/221366386-10ac5d71-09cf-435e-8397-023d6ece75d9.png)
 
 ![image](https://user-images.githubusercontent.com/112695184/221366408-5ddd718d-494a-4626-b270-86126cee9e10.png)
-#### I used two backgrounds for this. As you destroy more CO2 Earth becomes greener (part by part). You can see how much habitable earth becomes (%) on the top right corner of the screen.
+#### I used two backgrounds for this. As you destroy more CO2 Earth becomes greener (part by part). You can see how much habitable earth becomes (%) on the top left corner of the screen.
 ![image](https://user-images.githubusercontent.com/112695184/221366432-d17c4690-6bd8-4176-a0f7-a3e3b8fe6b77.png)
+![image](https://user-images.githubusercontent.com/112695184/222694839-76d87caf-bd0c-4f83-afba-fff61875d047.png)
+![image](https://user-images.githubusercontent.com/112695184/222695000-9c138783-8afb-4974-be9f-b0ea5cb89269.png)
+
+
 #### Killing green energy sources by accident will result in a pop message where the importance of that specific source is explained.
 #### Each energy source has its unique message (examples below). Messages appeare from bottom and go up.
 
