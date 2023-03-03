@@ -19,15 +19,17 @@
 
 ![image](https://user-images.githubusercontent.com/112695184/221366488-ab7b45fc-7458-42f0-983b-24f6958b4357.png)
 
-
+#### After you killing all the CO2 you can finally cross the debris line/ring by using the wormhole which appears on your side of the debris line. By going inside the wormhole you will end up on the other side of the debsris ring & can finally go back to your habitable planet (earth)!
 
 ![image](https://user-images.githubusercontent.com/112695184/221366564-5702e3e5-1b43-4304-a523-08c9635d13a8.png)
+
+
+
+![image](https://user-images.githubusercontent.com/112695184/221366634-6a1d5284-e084-4706-9d4c-20b76609eacc.png)
 
 
 ![image](https://user-images.githubusercontent.com/112695184/221366589-8b3610f9-8de4-4e34-b797-86813ba40caf.png)
 
 
-![image](https://user-images.githubusercontent.com/112695184/221366634-6a1d5284-e084-4706-9d4c-20b76609eacc.png)
-#### After you have killed all the CO2 you can finally cross the debris line/ring by using the wormhole which appears. By going inside the wormhole you will end up on the other side of the debsris ring!
 
 ![image](https://user-images.githubusercontent.com/112695184/221366650-4e7b9bd5-efcd-48c7-90e1-cd40406daaf7.png)
