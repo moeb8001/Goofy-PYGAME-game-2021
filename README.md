@@ -1,4 +1,5 @@
-# pythoncourse_final_project(Pygame) [Theme: Transistion to clean Energy]
+# Final Optional Personal Proj (for "Intro to Python" course Y1) [Theme: Transistion to clean Energy] (2021)
+
 ## Aim is to kill all CO2 (only ``` Python ```)
 #### Front page (story)
 ![image](https://user-images.githubusercontent.com/112695184/221366386-10ac5d71-09cf-435e-8397-023d6ece75d9.png)
