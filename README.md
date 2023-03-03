@@ -1,6 +1,6 @@
-# pythoncourse_final_proj]
+# pythoncourse_final_project(Pygame) [Theme: Transistion to clean Energy]
 ## Aim is to kill all CO2 (only ``` Python ```)
-#### Fron page (story)
+#### Front page (story)
 ![image](https://user-images.githubusercontent.com/112695184/221366386-10ac5d71-09cf-435e-8397-023d6ece75d9.png)
 
 ![image](https://user-images.githubusercontent.com/112695184/221366408-5ddd718d-494a-4626-b270-86126cee9e10.png)
