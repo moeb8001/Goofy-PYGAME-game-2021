@@ -1,4 +1,4 @@
-# Final Optional Personal Proj (for "Intro to Python" course Y1) [Theme: Transistion to clean Energy] (2021)
+# Final Optional Personal Proj (for "Intro to Python" course Y1) [Theme: Transistion to clean Energy] (Jan 2022)
 
 ## Aim is to kill all CO2 (only ``` Python ```)
 #### Front page (story)
